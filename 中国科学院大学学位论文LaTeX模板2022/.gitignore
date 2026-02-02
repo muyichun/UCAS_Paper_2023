@@ -15,3 +15,5 @@ Tmp/*
 *.fdb_latexmk
 *.synctex.gz
 *.xdv
+*.log
+*.out
